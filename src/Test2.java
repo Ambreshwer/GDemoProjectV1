@@ -1,4 +1,4 @@
-public class Test1 {
+public class Test2 {
 
 	public static void main(String[] args) {
 		
@@ -9,7 +9,7 @@ public class Test1 {
 	
 	public static void div() {
 		
-		System.out.println("Hi Test1");
+		System.out.println("Hi Test2");
 	}
 
 }
